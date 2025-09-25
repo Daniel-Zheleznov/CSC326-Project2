@@ -1,0 +1,11 @@
+// raddbg 0.9.21 project file
+
+recent_file: path: "../../../Utils/VS_Build_Tools/VC/Tools/MSVC/14.44.35207/include/utility"
+recent_file: path: "main.cpp"
+recent_file: path: "LinkedGit.h"
+target:
+{
+  executable: "x64/Debug/project-2.exe"
+  working_directory: "x64/Debug"
+  enabled: 1
+}
